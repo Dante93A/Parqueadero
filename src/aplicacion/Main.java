@@ -1,4 +1,4 @@
-// Archivo: Main.java (Reemplazar todo el contenido)
+
 package aplicacion;
 
 import javax.swing.SwingUtilities;

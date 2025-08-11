@@ -78,4 +78,14 @@ public class Parqueadero {
         }
         System.out.println("----------------------------\n");
     }
+
+
+
+/**
+ * Devuelve la lista de vehículos para que la interfaz pueda mostrarlos.
+ * @return Una copia de la lista de vehículos estacionados.
+ */
+public List<Vehiculo> getVehiculosEstacionados() {
+    return new ArrayList<>(this.vehiculosEstacionados);
+}
 }

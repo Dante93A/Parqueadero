@@ -1,4 +1,4 @@
-// Archivo: InterfazParqueadero.java (Actualizado)
+// Archivo: InterfazParqueadero.java 
 package aplicacion;
 
 import javax.swing.*;
